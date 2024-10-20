@@ -5,8 +5,7 @@ background-color: lightgreen;
 transition: background-color .5s;
 }
 
-/* Using flex with the column direction to
-align items in a vertical direction */
+/* Using flex with the column direction to align items in a vertical direction */
 .player {
 height: 95vh;
 display: flex;
@@ -47,8 +46,7 @@ font-size: 3rem;
 font-size: 1.5rem;
 }
 
-/* Using flex with the row direction to
-align items in a horizontal direction */
+/* Using flex with the row direction to align items in a horizontal direction */
 .buttons {
 display: flex;
 flex-direction: row;

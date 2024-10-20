@@ -1,6 +1,6 @@
 # Overview 👨🏻‍💻
 
-I created a browser-based music player with a simple interface that supports features like seeking and volume control. It uses HTML's built-in methods to play and control audio without needing extra libraries, also, CSS and some JavaScript of course. 
+I created a browser-based music player with a simple interface that supports features like seeking and volume control. It uses HTML's built-in methods to play and control audio without needing extra libraries, as well as CSS and some JavaScript.
 
 
 * Icons:
