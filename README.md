@@ -5,7 +5,7 @@ I created a browser-based music player with a simple interface that supports fea
 
 * Icons:
 * Website details: 
-* Emojis: ["Emojipedia"]("https://emojipedia.org/")
+* Emojis: [Emojipedia]("https://emojipedia.org/")
 
 
 [Insert information about the video here]("video link goes here")
