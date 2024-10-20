@@ -8,7 +8,7 @@ I created a browser-based music player with a simple interface that supports fea
 * Emojis: [Emojipedia]("https://emojipedia.org/")
 
 
-[Insert information about the video here]("video link goes here")
+[Insert information about the video here]("https://youtu.be/s4-e71Kw3I8?si=hHmryrG_qdGwrqnQ")
 
 
 # Development Environment 
@@ -23,4 +23,4 @@ I created a browser-based music player with a simple interface that supports fea
 # Useful Websites
 
 * [Insert information here]("video link goes here")
-* Type something here.
+* Type something here
