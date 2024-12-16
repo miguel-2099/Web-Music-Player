@@ -4,7 +4,7 @@ I created a browser-based music player with a simple interface that supports fea
 
 
 * Emojis: [Emojipedia](https://emojipedia.org/)
-* [Web Player Preview](https://web-music-player.glitch.me)
+* [Web Player Preview](https://web-music-player-cse310.glitch.me)
 * [Web Player Demo](https://youtu.be/s4-e71Kw3I8?si=hHmryrG_qdGwrqnQ)
 
 
